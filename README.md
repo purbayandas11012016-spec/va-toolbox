@@ -94,4 +94,8 @@ va-toolbox/
 
 ## License
 
-MIT
+Copyright (c) 2026 purbayandas11012016-spec. **All Rights Reserved.**
+
+This is proprietary software. No permission is granted to copy, modify,
+distribute, or use any part of this code without prior written permission from
+the copyright holder. See [LICENSE](LICENSE).
