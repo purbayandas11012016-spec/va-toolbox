@@ -1,0 +1,6 @@
+node_modules
+dist
+public/ffmpeg
+public/ffmpeg-mt
+.DS_Store
+*.log
